@@ -1,8 +1,8 @@
-#Ignore all
+# ignore everything
 *
+
 !src/
 !src/**
 
-!.gitignore
-
-#fuck calvin im trying to push
+!*.gitignore
+>>>>>>> e44ac350c45f4f1ec7c347ac8021032cc679833a
